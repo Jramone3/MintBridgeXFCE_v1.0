@@ -25,6 +25,30 @@ La trazabilidad completa está documentada en firma_index.md.
 
 ## 📌 Estado del toolkit
 
+# MintBridgeXFCE_v1.0 — Migración validada Windows 10 → Linux Mint XFCE
+
+**Autor técnico**: jramontiveras  
+**Toolkit blindado**: MintBridgeXFCE_v1.0  
+**Estructura validada**: HTML + firma digital + hash SHA256 + índice técnico
+
+### 📋 Requisitos mínimos
+- CPU: 1 núcleo
+- RAM: 2 GB recomendada
+- Almacenamiento libre: 20 GB
+
+### 🧪 Validación técnica
+- Firma digital: `MintBridge.html.sig`
+- Hash reproducible: `MintBridgeXFCE_v1.0.sha256`
+- Índice firmado: `firma_index.md`
+
+### 📎 Descarga oficial
+➤ [MintBridgeXFCE_v1.0.zip](https://github.com/Jramone3/MintBridgeXFCE_v1.0/releases)
+
+---
+
+**Licencia comunitaria MIT**  
+**Trazabilidad archivada bajo estándar jramonrivasg**  
+**Migración validada en entorno Mint XFCE con pantalla dividida y terminal técnico**
 - Validado y listo para publicación comunitaria  
 - Documentación reproducible  
 - Firma digital activa  
