@@ -33,3 +33,25 @@ Verificación:
 ```bash
 gpg --verify MintBridgeXFCE_v1.0.tar.gz.sig MintBridgeXFCE_v1.0.tar.gz
 sha256sum -c checksums.sha256
+---
+
+## 📣 Estado del release
+
+✅ Ciclo técnico cerrado  
+✅ Documentación reproducible archivada  
+✅ Blindaje comunitario preservado  
+✅ Listo para distribución y revisión externa
+
+---
+
+## 📜 Licencia sugerida
+
+Distribución bajo licencia `CC BY-NC-SA 4.0`  
+Uso no comercial, con atribución y posibilidad de derivaciones bajo misma licencia.
+
+---
+
+## 📬 Contacto técnico
+
+Correo: `jramonrivasg@protonmail.com`  
+Canal GitHub: [Jramone3/MintBridgeXFCE_v1.0](https://github.com/Jramone3/MintBridgeXFCE_v1.0)
