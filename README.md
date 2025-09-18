@@ -1,6 +1,6 @@
 ---
 
-**Estado técnico:** Listo para distribución, revisión externa o integración en ciclos derivados
+
 
 
 # 🧱 MintBridgeXFCE_v1.0 – Toolkit técnico blindado
