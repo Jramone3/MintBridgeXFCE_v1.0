@@ -93,3 +93,9 @@ Se invita a la comunidad a validar, colaborar y proponer mejoras en base a la ut
 – Documentación reproducible archivada  
 – Publicación oficial activa bajo el estándar jramonrivasg  
 – Listo para validación externa y difusión comunitaria
+📦 Proyecto MintBridgeXFCE_v1.0 publicado oficialmente en SourceForge el 18 sep 2025 – 19:10 VET  
+– Archivos sincronizados (.zip, .tar.gz, README.md)  
+– Licencia MIT + CC BY-SA 4.0 confirmada  
+– Autoría técnica preservada (jramonrivasg)  
+– Trazabilidad archivada y blindaje comunitario activo  
+– Listo para validación externa en Free Software Directory y Archive.org
