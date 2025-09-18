@@ -1,6 +1,8 @@
 ---
+**🗂️ Estado:**  
+Listo para distribución, revisión externa o integración en ciclos derivados
 
-🗂️ Estado: Listo para distribución, revisión externa o integración en ciclos derivados
+
 # 🧱 MintBridgeXFCE_v1.0 – Toolkit técnico blindado
 
 Este repositorio contiene el paquete MintBridgeXFCE_v1.0.zip, desarrollado bajo trazabilidad comunitaria, blindaje digital y documentación reproducible.  
