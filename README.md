@@ -31,7 +31,7 @@ La trazabilidad completa está documentada en firma_index.md.
 
 # MintBridgeXFCE_v1.0 — Migración validada Windows 10 → Linux Mint XFCE
 
-**Autor técnico**: jramontiveras  
+**Autor técnico**: jramonrivasg
 **Toolkit blindado**: MintBridgeXFCE_v1.0  
 **Estructura validada**: HTML + firma digital + hash SHA256 + índice técnico
 
