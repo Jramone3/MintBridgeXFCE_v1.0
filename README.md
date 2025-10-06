@@ -1,101 +1,80 @@
+k# 🧱 MintBridgeXFCE_v1.0 — Toolkit técnico blindado
 
-**Estado técnico:**  
-Listo para distribución, revisión externa o integración en ciclos derivados
+Migración validada de Windows 10 a Linux Mint XFCE con trazabilidad comunitaria, firma digital y documentación reproducible.
 
-# 🧱 MintBridgeXFCE_v1.0 – Toolkit técnico blindado
-
-Este repositorio contiene el paquete MintBridgeXFCE_v1.0.zip, desarrollado bajo trazabilidad comunitaria, blindaje digital y documentación reproducible.  
-Forma parte del ciclo técnico validado y firmado bajo el estándar de su autor “jramonrivasg”.
+---
 
 ## 📦 Contenido del paquete
 
-- MintBridge.html  
-- MintBridge.html.sig  
-- MintBridgeXFCE_v1.0.sha256  
-- Documentación técnica (firma_index.md)  
+- `MintBridge.html`
+- `MintBridge.html.sig`
+- `MintBridgeXFCE_v1.0.sha256`
+- `firma_index.md`
+- Documentación técnica reproducible
 - Estructura validada para entorno Mint XFCE
 
-## 🔐 Firma digital integrada
+---
 
-Todos los archivos críticos están firmados digitalmente con clave blindada.  
-La verificación se realiza mediante:
+## 🔐 Verificación técnica
+
+Todos los archivos críticos están firmados digitalmente y validados con hash SHA256.
 
 ```bash
 gpg --verify MintBridge.html.sig MintBridge.html
 sha256sum -c MintBridgeXFCE_v1.0.sha256
-```
+📌 Estado del toolkit
+Migración validada: Windows 10 → Linux Mint XFCE
 
-La trazabilidad completa está documentada en firma_index.md.
+Autor técnico: jramonrivasg
 
-## 📌 Estado del toolkit
+Blindaje: Firma digital + hash reproducible + índice técnico
 
-# MintBridgeXFCE_v1.0 — Migración validada Windows 10 → Linux Mint XFCE
+Estado: Listo para distribución, revisión externa o integración en ciclos derivados
 
-**Autor técnico**: jramonrivasg
-**Toolkit blindado**: MintBridgeXFCE_v1.0  
-**Estructura validada**: HTML + firma digital + hash SHA256 + índice técnico
+📋 Requisitos mínimos
+CPU: 1 núcleo
 
-### 📋 Requisitos mínimos
-- CPU: 1 núcleo
-- RAM: 2 GB recomendada
-- Almacenamiento libre: 20 GB
+RAM: 2 GB recomendada
 
-### 🧪 Validación técnica
-- Firma digital: `MintBridge.html.sig`
-- Hash reproducible: `MintBridgeXFCE_v1.0.sha256`
-- Índice firmado: `firma_index.md`
+Almacenamiento libre: 20 GB
 
-### 📎 Descarga oficial
-➤ [MintBridgeXFCE_v1.0.zip](https://github.com/Jramone3/MintBridgeXFCE_v1.0/releases)
+🧪 Validación técnica
+Firma digital: MintBridge.html.sig
 
----
+Hash reproducible: MintBridgeXFCE_v1.0.sha256
 
-**Licencia comunitaria MIT**  
-**Trazabilidad archivada bajo estándar jramonrivasg**  
-**Migración validada en entorno Mint XFCE con pantalla dividida y terminal técnico**
-- Validado y listo para publicación comunitaria  
-- Documentación reproducible  
-- Firma digital activa  
-- Blindaje técnico preservado
+Índice firmado: firma_index.md
 
-## 📊 Modelo de sostenibilidad técnica
+📎 Descarga oficial
+➤ MintBridgeXFCE_v1.0.zip
 
-Este proyecto se publica bajo trazabilidad comunitaria.  
-Se contempla un modelo técnico de sostenibilidad que incluye:
+⚖️ Licencias
+Código fuente y scripts: MIT
 
-- Distribución libre con validación comunitaria  
-- Posibilidad de soporte técnico personalizado  
-- Apertura a colaboración estructurada con entidades o técnicos afines
+Documentación y estructura técnica: CC BY-NC-SA 4.0
 
-Licencia sugerida: CC BY-NC-SA 4.0  
+📊 Modelo de sostenibilidad técnica
+Este proyecto se publica bajo trazabilidad comunitaria. Se contempla:
+
+Distribución libre con validación comunitaria
+
+Posibilidad de soporte técnico personalizado
+
+Apertura a colaboración estructurada con entidades o técnicos afines
+
 Contacto técnico: jramonrivasg@protonmail.com
 
-## 📣 Prelanzamiento comunitario
+📣 Prelanzamiento comunitario
+Este repositorio forma parte de la fase de prelanzamiento técnico. Se invita a validar, colaborar y proponer mejoras.
 
-Este repositorio forma parte de la fase de prelanzamiento técnico.  
-Se invita a la comunidad a validar, colaborar y proponer mejoras en base a la utilidad técnica del paquete.
+🧾 Cierre comunitario oficial
+✅ Todos los bloques validados y firmados ✅ Documentación reproducible archivada ✅ Blindaje comunitario preservado ✅ Publicación oficial completada bajo el estándar jramonrivasg
 
----
+🗂️ Consolidación externa
+Publicado en SourceForge el 18 sep 2025 – 19:10 VET
 
-## 🧾 Cierre comunitario oficial
+Archivos sincronizados (.zip, .tar.gz, README.md)
 
-🧱 MintBridge XFCE v1.0 – Ciclo técnico cerrado
+Licencias confirmadas: MIT + CC BY-NC-SA 4.0
 
-✅ Todos los bloques validados y firmados  
-✅ Documentación reproducible archivada  
-✅ Blindaje comunitario preservado  
-✅ Publicación oficial completada bajo el estándar jramonrivasg
-
-🗂️ Estado: Listo para distribución, revisión externa o integración en ciclos derivados
-📦 Proyecto MintBridgeXFCE_v1.0 consolidado en SourceForge el 18 sep 2025 – 18:55 VET  
-– Metadatos completados y validados  
-– Licencia CC BY-NC-SA 4.0 confirmada  
-– Documentación reproducible archivada  
-– Publicación oficial activa bajo el estándar jramonrivasg  
-– Listo para validación externa y difusión comunitaria
-📦 Proyecto MintBridgeXFCE_v1.0 publicado oficialmente en SourceForge el 18 sep 2025 – 19:10 VET  
-– Archivos sincronizados (.zip, .tar.gz, README.md)  
-– Licencia MIT + CC BY-SA 4.0 confirmada  
-– Autoría técnica preservada (jramonrivasg)  
-– Trazabilidad archivada y blindaje comunitario activo  
-– Listo para validación externa en Free Software Directory y Archive.org
+Listo para validación externa en Free Software Directory y Archive.org
