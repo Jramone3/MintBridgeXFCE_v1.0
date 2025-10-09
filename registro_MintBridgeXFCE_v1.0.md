@@ -27,3 +27,8 @@ Firma válida con clave E9773AC8CC1391997D16B9C47DF474765A2B878F
 ## Validación Final  
 Todas las sumas registradas coincidieron correctamente con los archivos.
 
+✅ Validación comunitaria completada el 18 sep 2025 – 16:05 VET  
+– Firma GPG verificada con clave EDDSA E9773AC8CC1391997D16B9C47DF474765A2B878F  
+– Hashes SHA256 regenerados y validados  
+– Todos los archivos coinciden con sus sumas registradas  
+– Listo para publicación en Archive.org, Reddit, Mastodon y SourceForge
