@@ -1,0 +1,12 @@
+Servicio: examen notic
+Detectar líneas duplicadas en login.db
+⚠️ Líneas duplicadas encontradas:
+usuario1
+login.db tiene contenido
+vacio.db tiene contenido
+-rwxrwxr-x 1 ramon ramon 1004 sep 15 10:57 validacion.sh
+Simulación con sudo:
+sudo cp archivo.db /ruta/destino/
+✔️ Archivos correctos: 2
+❌ Archivos faltantes: 0
+✅ Proyecto listo para cierre técnico
