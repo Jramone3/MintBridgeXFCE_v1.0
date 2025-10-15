@@ -88,9 +88,29 @@ Licencias confirmadas: MIT + CC BY-NC-SA 4.0
 Listo para validación externa en Free Software Directory y Archive.org
 ---
 
+🔗 Referencias externas patrimoniales
 ## 🔗 Documentación extendida
 
+- 📝 [REMI presents itself as a patrimonial agent in MintBridgeXFCE v1.0.3 – SourceForge Blog](https://sourceforge.net/p/mintbridgexfce/blog/2025/10/remi-presents-itself-as-a-patrimonial-agent-in-mintbridgexfce-v103/)
 - [MintBridge + Prometeo Toolkit Suite — XFCE Modular Validation](MintBridge-XFCE-v1.0/Docs/suite.md)
 - [MANIFIESTO técnico completo](MANIFIESTO.md)
 - [Dossier técnico ético MintBridge XFCE v1.0.3](Dossier_MintBridgeXFCE_v1.0.3.md)
 - [Licencia comunitaria MintBridgeXFCE](LicenciaMintBridgeXFCE.md)
+
+---
+
+### 📜 Licencia comunitaria MintBridgeXFCE
+
+Este proyecto se distribuye bajo un modelo dual de licenciamiento:
+
+- **Código fuente y scripts**: Licencia MIT  
+  Permite uso, modificación y distribución libre con atribución.
+
+- **Documentación, manifiestos y estructura técnica**:  
+  Licencia **Creative Commons BY-NC-SA 4.0**  
+  Permite compartir y adaptar con atribución, uso no comercial y bajo la misma licencia.
+
+Para más detalles, consulta los archivos `LICENSE.md` y `MANIFEST.md` incluidos en el paquete.
+
+
+- [Dossier técnico ético MintBridge XFCE v1.0.3](Dossier_MintBridgeXFCE_v1.0.3.md)
